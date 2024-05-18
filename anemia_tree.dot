@@ -50,7 +50,7 @@ edge [fontname="helvetica"] ;
 19 -> 23 ;
 24 [label="gini = 0.0\nsamples = 8\nvalue = [0, 0, 0, 8, 0, 0, 0, 0, 0]\nclass = Leukimia", fillcolor="#39e581"] ;
 23 -> 24 ;
-25 [label="NEUTn <= 6.2\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 0]\nclass = Normocytic normochromic anemia", fillcolor="#ffffff"] ;
+25 [label="LYMn <= 3.1\ngini = 0.5\nsamples = 2\nvalue = [0, 0, 0, 0, 0, 0, 1, 1, 0]\nclass = Normocytic normochromic anemia", fillcolor="#ffffff"] ;
 23 -> 25 ;
 26 [label="gini = 0.0\nsamples = 1\nvalue = [0, 0, 0, 0, 0, 0, 1, 0, 0]\nclass = Normocytic normochromic anemia", fillcolor="#8139e5"] ;
 25 -> 26 ;
